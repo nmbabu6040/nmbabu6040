@@ -1,65 +1,44 @@
-# 👋 Hi, I'm N M Babu  
+# 👋 Hi, I’m **N M Babu**
+**Frontend & Backend Web Developer**  
+💻 I build **responsive, clean, and professional websites** using HTML, CSS, Bootstrap, Tailwind, JavaScript, jQuery, PHP & Laravel.
 
-Frontend Web Developer focused on building clean, responsive, and user-friendly websites.
-
-I work mainly with **HTML, CSS, Bootstrap, Tailwinds, JavaScript & jQuery, PHP, and Laravel**, and I enjoy turning designs into real, working websites.
-
----
-
-## 🚀 What I Do
-- Responsive website design using HTML, CSS & Bootstrap  
-- UI cloning for practice & skill improvement  
-- Landing page & business website layouts  
-- Fix responsive & layout issues  
-- jQuery plugins integration (slider, scroll, modal, filter)
+📍 Based in Bangladesh
 
 ---
 
-## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- Bootstrap 4 / 5
-- Tailwinds
-- JavaScript (Basic)  
-- jQuery
-- PHP
-- Laravel
-- Git & GitHub  
-- Vercel (Deployment)
+## 🚀 About Me
+I have built **40+ live demo projects** deployed on Vercel and GitHub.  
+My focus is **responsive UI, modern layouts, and practical frontend skills**. I am actively learning backend workflows with PHP & Laravel.
 
 ---
 
-## 📂 Projects
-I have built **40+ frontend practice projects**, all coded by me from scratch.
-
-🔹 Many projects are **practice & UI-clone based**  
-🔹 Live demos hosted on **Vercel**  
-🔹 Focus on responsiveness & clean layout  
-
-👉 Browse my repositories to view live demos & source code. Below my few live project link...
-- https://fighter-ruby.vercel.app/
-- https://jubayer-corporation.vercel.app/
-- https://petrotek.vercel.app/
-- https://akij.vercel.app/
-- https://petromax.vercel.app/
-- https://jago-foundation.vercel.app/
+## 🛠️ Tech Skills
+**Frontend:** HTML5, CSS3, Bootstrap 4/5, Tailwind  
+**JavaScript:** JavaScript, jQuery, DOM manipulation  
+**Backend:** PHP, Laravel (learning)  
+**Tools:** Git, GitHub, Vercel deployments
 
 ---
 
-## 🌱 Currently Improving
-- JavaScript fundamentals  
-- Reusable UI components  
-- Real-world frontend workflows
-- PHP
-- Laravel
-- MySql
+## 🌍 Featured Projects
+
+### ⭐ Best Work
+| Project | Live Demo | Description |
+|---------|-----------|-------------|
+| **Akij** | https://akij.vercel.app | Responsive business landing page UI |
+| **Jago Foundation** | https://jago-foundation.vercel.app | NGO style layout | 
+| **Jubayer Corporation** | https://jubayer-corporation.vercel.app | Corporate UI clone |
+| **Petromax** | https://petromax.vercel.app | Product landing page |
+| **Petrotek** | https://petrotek.vercel.app | Tech brand UI design |
+| **Fighter** | https://fighter-ruby.vercel.app | Creative UI & components |
+
+👉 More projects are in my **Repositories** tab.
 
 ---
 
-## 📬 Contact
-📧 Email: nmbabu6040@gmail.com  
+## 📫 Contact
+📧 Email: **nmbabu6040@gmail.com**  
 🔗 GitHub: https://github.com/nmbabu6040  
 
----
 
-⭐ I believe in honest work, continuous learning, and halal income.
+⭐ I believe in **continuous learning, professional growth, and halal income**.
